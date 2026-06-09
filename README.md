@@ -1,3 +1,7 @@
+# How to add back Mircrew and ilDragonero
+- Either compile Prowlarr with these indexers (harder)
+- drop `mircrew.yml` and `ildragonero.yml` in `conf/Definitions/Custom/` (easiest)
+
 # Indexers
 
 [![Supported Indexers](https://img.shields.io/badge/Supported%20Indexers-View%20all%20currently%20supported%20indexers%20%26%20trackers-important)](https://wiki.servarr.com/en/prowlarr/supported-indexers)
